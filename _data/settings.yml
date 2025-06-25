@@ -16,9 +16,3 @@ menu:
 social:
 - {icon: 'linkedin', link:  'https://www.linkedin.com/in/redefiningvicky/'}
 - {icon: 'instagram', link:  'https://instagram.com/redefiningvicky/'}
-
-sharing_button_prompt: 'Feel free to share!'
-
-related_posts: 'You may also enjoy...'
-
-post_date_prefix: 'Written on'
